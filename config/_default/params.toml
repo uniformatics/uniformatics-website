@@ -75,9 +75,11 @@ crisp_website_id = "9aa449e1-9999-422a-938f-8567982eec6d" # replace this code wi
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Hugo", "GetHugoThemes"]
-description = "This is meta description"
-author = "Themefisher"
+keywords = ["Universal Informatics", "Universal UI", "Universal Serialization", "Universal Culture",
+    "Internationalization", "Multilingualization", "Corss-platform", "App Framework",
+    "Computer Technology", "Omni-media"]
+description = "Univesal UI is the only omni-media content development technology in the world"
+author = "Universal Informatics LLC"
 image = "images/logo.png"                # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
@@ -111,7 +113,7 @@ facebook = "" # Your verification code
 # cookies
 [cookies]
 enable = true
-expire_days = 2
+expire_days = 14
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
 
