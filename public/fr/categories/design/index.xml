@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>design on Interface - SaaS Landing Theme</title>
+    <link>https://demo.gethugothemes.com/interface/site/fr/categories/design/</link>
+    <description>Recent content in design on Interface - SaaS Landing Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 14 Jun 2022 00:00:00 -0400</lastBuildDate><atom:link href="https://demo.gethugothemes.com/interface/site/fr/categories/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your company might be in need of a social media audit.</title>
+      <link>https://demo.gethugothemes.com/interface/site/fr/blog/post-1/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/interface/site/fr/blog/post-1/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+    <item>
+      <title>Why your business needs custom reports</title>
+      <link>https://demo.gethugothemes.com/interface/site/fr/blog/post-4/</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/interface/site/fr/blog/post-4/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+    <item>
+      <title>What to consider before starting a business – Inside The Studio</title>
+      <link>https://demo.gethugothemes.com/interface/site/fr/blog/post-8/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/interface/site/fr/blog/post-8/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+  </channel>
+</rss>

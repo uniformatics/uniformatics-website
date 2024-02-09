@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>development on Interface - SaaS Landing Theme</title>
+    <link>https://demo.gethugothemes.com/interface/site/fr/categories/development/</link>
+    <description>Recent content in development on Interface - SaaS Landing Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 13 May 2022 00:00:00 -0400</lastBuildDate><atom:link href="https://demo.gethugothemes.com/interface/site/fr/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How CyberT used simple email marketing campaigns</title>
+      <link>https://demo.gethugothemes.com/interface/site/fr/blog/post-2/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/interface/site/fr/blog/post-2/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+    <item>
+      <title>How to optimize page performance using heatmaps</title>
+      <link>https://demo.gethugothemes.com/interface/site/fr/blog/post-6/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/interface/site/fr/blog/post-6/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+  </channel>
+</rss>

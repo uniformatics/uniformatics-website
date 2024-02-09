@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Interface - SaaS Landing Theme</title>
+    <link>https://demo.gethugothemes.com/interface/site/fr/author/</link>
+    <description>Recent content in Authors on Interface - SaaS Landing Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="https://demo.gethugothemes.com/interface/site/fr/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jenn Hiller</title>
+      <link>https://demo.gethugothemes.com/interface/site/fr/author/jenn-hiller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/interface/site/fr/author/jenn-hiller/</guid>
+      <description>Facilis architecto quis maxime nam at, optio harum a velit nulla repellat ad culpa dolorem ab ducimus, porro enim fugit incidunt expedita.</description>
+    </item>
+    
+    <item>
+      <title>John Carter</title>
+      <link>https://demo.gethugothemes.com/interface/site/fr/author/john-carter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/interface/site/fr/author/john-carter/</guid>
+      <description>Facilis architecto quis maxime nam at, optio harum a velit nulla repellat ad culpa dolorem ab ducimus, porro enim fugit incidunt expedita</description>
+    </item>
+    
+    <item>
+      <title>Mark Breslin</title>
+      <link>https://demo.gethugothemes.com/interface/site/fr/author/mark-breslin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/interface/site/fr/author/mark-breslin/</guid>
+      <description>Facilis architecto quis maxime nam at, optio harum a velit nulla repellat ad culpa dolorem ab ducimus, porro enim fugit incidunt expedita.</description>
+    </item>
+    
+    <item>
+      <title>Soophie Moore</title>
+      <link>https://demo.gethugothemes.com/interface/site/fr/author/soophie-moore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/interface/site/fr/author/soophie-moore/</guid>
+      <description>Hic dolor cumque quod quas pariatur modi rerum qui consequatur, iusto inventore dolorem ab ducimus, porro enim fugit incidunt expedita</description>
+    </item>
+    
+  </channel>
+</rss>

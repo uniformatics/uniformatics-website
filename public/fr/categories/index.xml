@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Interface - SaaS Landing Theme</title>
+    <link>https://demo.gethugothemes.com/interface/site/fr/categories/</link>
+    <description>Recent content in Categories on Interface - SaaS Landing Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 14 Jun 2022 00:00:00 -0400</lastBuildDate><atom:link href="https://demo.gethugothemes.com/interface/site/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>design</title>
+      <link>https://demo.gethugothemes.com/interface/site/fr/categories/design/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/interface/site/fr/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://demo.gethugothemes.com/interface/site/fr/categories/development/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/interface/site/fr/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>content-writer</title>
+      <link>https://demo.gethugothemes.com/interface/site/fr/categories/content-writer/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/interface/site/fr/categories/content-writer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marketing</title>
+      <link>https://demo.gethugothemes.com/interface/site/fr/categories/marketing/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/interface/site/fr/categories/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>remote-work</title>
+      <link>https://demo.gethugothemes.com/interface/site/fr/categories/remote-work/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/interface/site/fr/categories/remote-work/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

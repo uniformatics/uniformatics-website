@@ -1,9 +1,6 @@
 # IntelliJ IDEA
 .idea/
 
-# Hugo generated files
-/public/
-
 # Compiled files
 *.class
 *.war
