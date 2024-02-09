@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bio on Interface - SaaS Landing Theme</title>
+    <link>https://www.uniformatics.com/categories/bio/</link>
+    <description>Recent content in bio on Interface - SaaS Landing Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Feb 2024 00:00:00 -0800</lastBuildDate><atom:link href="https://www.uniformatics.com/categories/bio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Founder&#39;s Profile</title>
+      <link>https://www.uniformatics.com/blog/post-1/</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 -0800</pubDate>
+      
+      <guid>https://www.uniformatics.com/blog/post-1/</guid>
+      <description>Hamed K Khandan, Dr. Eng.
+K is an engineer based in California.</description>
+    </item>
+    
+  </channel>
+</rss>

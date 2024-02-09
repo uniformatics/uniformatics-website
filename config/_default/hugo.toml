@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/interface/site/"
+baseURL = "https://www.uniformatics.com/"
 title = "Interface - SaaS Landing Theme"
 theme = "interface-hugo"
 

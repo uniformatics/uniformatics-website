@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Interface - SaaS Landing Theme</title>
-    <link>https://demo.gethugothemes.com/interface/site/fr/pages/</link>
+    <link>https://www.uniformatics.com/fr/pages/</link>
     <description>Recent content in Pages on Interface - SaaS Landing Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 27 Oct 2021 16:49:27 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/interface/site/fr/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Oct 2021 16:49:27 +0600</lastBuildDate><atom:link href="https://www.uniformatics.com/fr/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elements</title>
-      <link>https://demo.gethugothemes.com/interface/site/fr/elements/</link>
+      <link>https://www.uniformatics.com/fr/elements/</link>
       <pubDate>Wed, 27 Oct 2021 16:49:27 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/fr/elements/</guid>
+      <guid>https://www.uniformatics.com/fr/elements/</guid>
       <description>Table des matières Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Link Paragraph Ordered List Unordered List Notice Tab Collapse Code and Syntax Highlighting Blockquote Inline HTML Tables Image Gallery Youtube video Custom video Here is an example of headings.</description>
     </item>
     
@@ -36,10 +36,10 @@
     
     <item>
       <title>À propos de</title>
-      <link>https://demo.gethugothemes.com/interface/site/fr/about/</link>
+      <link>https://www.uniformatics.com/fr/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/fr/about/</guid>
+      <guid>https://www.uniformatics.com/fr/about/</guid>
       <description></description>
     </item>
     
@@ -54,28 +54,28 @@
     
     <item>
       <title>contact</title>
-      <link>https://demo.gethugothemes.com/interface/site/fr/contact/</link>
+      <link>https://www.uniformatics.com/fr/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/fr/contact/</guid>
+      <guid>https://www.uniformatics.com/fr/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forfaits et tarifs</title>
-      <link>https://demo.gethugothemes.com/interface/site/fr/pricing/</link>
+      <link>https://www.uniformatics.com/fr/pricing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/fr/pricing/</guid>
+      <guid>https://www.uniformatics.com/fr/pricing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Journal des modifications</title>
-      <link>https://demo.gethugothemes.com/interface/site/fr/changelog/</link>
+      <link>https://www.uniformatics.com/fr/changelog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/fr/changelog/</guid>
+      <guid>https://www.uniformatics.com/fr/changelog/</guid>
       <description>19 Jan, 2023 Version 2.1 changed Process transactions. Send emails and updates about Conclude Perform any other function that we believe 03 May, 2022 Version 2.</description>
     </item>
     

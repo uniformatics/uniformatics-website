@@ -2,172 +2,110 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interface - SaaS Landing Theme</title>
-    <link>https://demo.gethugothemes.com/interface/site/</link>
+    <link>https://www.uniformatics.com/</link>
     <description>Recent content on Interface - SaaS Landing Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jun 2022 00:00:00 -0400</lastBuildDate><atom:link href="https://demo.gethugothemes.com/interface/site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Feb 2024 00:00:00 -0800</lastBuildDate><atom:link href="https://www.uniformatics.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Your company might be in need of a social media audit.</title>
-      <link>https://demo.gethugothemes.com/interface/site/blog/post-1/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 -0400</pubDate>
+      <title>Founder&#39;s Profile</title>
+      <link>https://www.uniformatics.com/blog/post-1/</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 -0800</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/blog/post-1/</guid>
-      <description>Simple Yet Powerful UI Kit Template Laoreet mauris odio ut nec.</description>
+      <guid>https://www.uniformatics.com/blog/post-1/</guid>
+      <description>Hamed K Khandan, Dr. Eng.
+K is an engineer based in California.</description>
     </item>
     
     <item>
       <title>ASP.NET Software Developer</title>
-      <link>https://demo.gethugothemes.com/interface/site/career/asp-net-software-developer/</link>
-      <pubDate>Wed, 08 Jun 2022 00:00:00 -0400</pubDate>
+      <link>https://www.uniformatics.com/career/asp-net-software-developer/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 -0700</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/career/asp-net-software-developer/</guid>
+      <guid>https://www.uniformatics.com/career/asp-net-software-developer/</guid>
       <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
     </item>
     
     <item>
       <title>Digital Marketing / Paid Media Manager</title>
-      <link>https://demo.gethugothemes.com/interface/site/career/digital-marketing-paid-media-manager/</link>
-      <pubDate>Sat, 14 May 2022 00:00:00 -0400</pubDate>
+      <link>https://www.uniformatics.com/career/digital-marketing-paid-media-manager/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 -0700</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/career/digital-marketing-paid-media-manager/</guid>
+      <guid>https://www.uniformatics.com/career/digital-marketing-paid-media-manager/</guid>
       <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
     </item>
     
     <item>
-      <title>How CyberT used simple email marketing campaigns</title>
-      <link>https://demo.gethugothemes.com/interface/site/blog/post-2/</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 -0400</pubDate>
-      
-      <guid>https://demo.gethugothemes.com/interface/site/blog/post-2/</guid>
-      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
-    </item>
-    
-    <item>
-      <title>All you need to know about subscriber analysis.</title>
-      <link>https://demo.gethugothemes.com/interface/site/blog/post-3/</link>
-      <pubDate>Tue, 12 Apr 2022 00:00:00 -0400</pubDate>
-      
-      <guid>https://demo.gethugothemes.com/interface/site/blog/post-3/</guid>
-      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
-    </item>
-    
-    <item>
       <title>Executive/ Sr. Executive - Service Assurance</title>
-      <link>https://demo.gethugothemes.com/interface/site/career/executive-sr-executive-service-assurance/</link>
-      <pubDate>Mon, 11 Apr 2022 00:00:00 -0400</pubDate>
+      <link>https://www.uniformatics.com/career/executive-sr-executive-service-assurance/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 -0700</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/career/executive-sr-executive-service-assurance/</guid>
+      <guid>https://www.uniformatics.com/career/executive-sr-executive-service-assurance/</guid>
       <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
     </item>
     
     <item>
       <title>People Program Management Leader</title>
-      <link>https://demo.gethugothemes.com/interface/site/career/people-program-management-leader/</link>
-      <pubDate>Sun, 13 Mar 2022 00:00:00 -0500</pubDate>
+      <link>https://www.uniformatics.com/career/people-program-management-leader/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 -0800</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/career/people-program-management-leader/</guid>
+      <guid>https://www.uniformatics.com/career/people-program-management-leader/</guid>
       <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
     </item>
     
     <item>
-      <title>Why your business needs custom reports</title>
-      <link>https://demo.gethugothemes.com/interface/site/blog/post-4/</link>
-      <pubDate>Fri, 11 Mar 2022 00:00:00 -0500</pubDate>
-      
-      <guid>https://demo.gethugothemes.com/interface/site/blog/post-4/</guid>
-      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
-    </item>
-    
-    <item>
-      <title>How to add analytics to your Android or iOS app</title>
-      <link>https://demo.gethugothemes.com/interface/site/blog/post-5/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 -0500</pubDate>
-      
-      <guid>https://demo.gethugothemes.com/interface/site/blog/post-5/</guid>
-      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
-    </item>
-    
-    <item>
       <title>Programmer/ Web Developer</title>
-      <link>https://demo.gethugothemes.com/interface/site/career/programmer-web-developer/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 -0500</pubDate>
+      <link>https://www.uniformatics.com/career/programmer-web-developer/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 -0800</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/career/programmer-web-developer/</guid>
+      <guid>https://www.uniformatics.com/career/programmer-web-developer/</guid>
       <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
     </item>
     
     <item>
       <title>Senior Compensation Programs Manager</title>
-      <link>https://demo.gethugothemes.com/interface/site/career/senior-compensation-programs-manager/</link>
-      <pubDate>Sat, 12 Feb 2022 00:00:00 -0500</pubDate>
+      <link>https://www.uniformatics.com/career/senior-compensation-programs-manager/</link>
+      <pubDate>Sat, 12 Feb 2022 00:00:00 -0800</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/career/senior-compensation-programs-manager/</guid>
+      <guid>https://www.uniformatics.com/career/senior-compensation-programs-manager/</guid>
       <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
-    </item>
-    
-    <item>
-      <title>How to optimize page performance using heatmaps</title>
-      <link>https://demo.gethugothemes.com/interface/site/blog/post-6/</link>
-      <pubDate>Wed, 09 Feb 2022 00:00:00 -0500</pubDate>
-      
-      <guid>https://demo.gethugothemes.com/interface/site/blog/post-6/</guid>
-      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
-    </item>
-    
-    <item>
-      <title>5 Takeaways From 5 Years of Startup Experience</title>
-      <link>https://demo.gethugothemes.com/interface/site/blog/post-7/</link>
-      <pubDate>Tue, 08 Feb 2022 00:00:00 -0500</pubDate>
-      
-      <guid>https://demo.gethugothemes.com/interface/site/blog/post-7/</guid>
-      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
     </item>
     
     <item>
       <title>Technology Integration Support</title>
-      <link>https://demo.gethugothemes.com/interface/site/career/technology-integration-support/</link>
-      <pubDate>Sun, 09 Jan 2022 00:00:00 -0500</pubDate>
+      <link>https://www.uniformatics.com/career/technology-integration-support/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 -0800</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/career/technology-integration-support/</guid>
+      <guid>https://www.uniformatics.com/career/technology-integration-support/</guid>
       <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
     </item>
     
     <item>
-      <title>What to consider before starting a business – Inside The Studio</title>
-      <link>https://demo.gethugothemes.com/interface/site/blog/post-8/</link>
-      <pubDate>Fri, 07 Jan 2022 00:00:00 -0500</pubDate>
-      
-      <guid>https://demo.gethugothemes.com/interface/site/blog/post-8/</guid>
-      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
-    </item>
-    
-    <item>
       <title>Elements</title>
-      <link>https://demo.gethugothemes.com/interface/site/elements/</link>
+      <link>https://www.uniformatics.com/elements/</link>
       <pubDate>Wed, 27 Oct 2021 16:49:27 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/elements/</guid>
+      <guid>https://www.uniformatics.com/elements/</guid>
       <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Link Paragraph Ordered List Unordered List Notice Tab Collapse Code and Syntax Highlighting Blockquote Inline HTML Tables Image Gallery Youtube video Custom video Here is an example of headings.</description>
     </item>
     
     <item>
       <title>Services</title>
-      <link>https://demo.gethugothemes.com/interface/site/services/</link>
+      <link>https://www.uniformatics.com/services/</link>
       <pubDate>Wed, 27 Oct 2021 16:49:27 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/services/</guid>
-      <description>Table of Contents App &amp;amp; Web Development Note
+      <guid>https://www.uniformatics.com/services/</guid>
+      <description>App &amp;amp; Web Development Note
 This is a Limited Time Offer &amp;mdash; We are offering development service for a limited time only as a way to prove the viability of our technology.</description>
     </item>
     
     <item>
       <title>Solutions</title>
-      <link>https://demo.gethugothemes.com/interface/site/solutions/</link>
+      <link>https://www.uniformatics.com/solutions/</link>
       <pubDate>Wed, 27 Oct 2021 16:49:27 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/solutions/</guid>
-      <description> Table of Contents </description>
+      <guid>https://www.uniformatics.com/solutions/</guid>
+      <description>Universal UI Universal UI is the world first Omni-Media interactive content development platform.</description>
     </item>
     
     <item>
@@ -190,46 +128,55 @@ This is a Limited Time Offer &amp;mdash; We are offering development service for
     
     <item>
       <title>About Us</title>
-      <link>https://demo.gethugothemes.com/interface/site/about/</link>
+      <link>https://www.uniformatics.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/about/</guid>
+      <guid>https://www.uniformatics.com/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://demo.gethugothemes.com/interface/site/contact/</link>
+      <link>https://www.uniformatics.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/contact/</guid>
+      <guid>https://www.uniformatics.com/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Get Universal</title>
+      <link>https://www.uniformatics.com/pricing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.uniformatics.com/pricing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jenn Hiller</title>
-      <link>https://demo.gethugothemes.com/interface/site/author/jenn-hiller/</link>
+      <link>https://www.uniformatics.com/author/jenn-hiller/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/author/jenn-hiller/</guid>
+      <guid>https://www.uniformatics.com/author/jenn-hiller/</guid>
       <description>Facilis architecto quis maxime nam at, optio harum a velit nulla repellat ad culpa dolorem ab ducimus, porro enim fugit incidunt expedita.</description>
     </item>
     
     <item>
       <title>John Carter</title>
-      <link>https://demo.gethugothemes.com/interface/site/author/john-carter/</link>
+      <link>https://www.uniformatics.com/author/john-carter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/author/john-carter/</guid>
+      <guid>https://www.uniformatics.com/author/john-carter/</guid>
       <description>Facilis architecto quis maxime nam at, optio harum a velit nulla repellat ad culpa dolorem ab ducimus, porro enim fugit incidunt expedita</description>
     </item>
     
     <item>
       <title>Mark Breslin</title>
-      <link>https://demo.gethugothemes.com/interface/site/author/mark-breslin/</link>
+      <link>https://www.uniformatics.com/author/mark-breslin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/author/mark-breslin/</guid>
+      <guid>https://www.uniformatics.com/author/mark-breslin/</guid>
       <description>Facilis architecto quis maxime nam at, optio harum a velit nulla repellat ad culpa dolorem ab ducimus, porro enim fugit incidunt expedita.</description>
     </item>
     
@@ -243,20 +190,11 @@ This is a Limited Time Offer &amp;mdash; We are offering development service for
     </item>
     
     <item>
-      <title>Plans &amp; Pricing</title>
-      <link>https://demo.gethugothemes.com/interface/site/pricing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://demo.gethugothemes.com/interface/site/pricing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Soophie Moore</title>
-      <link>https://demo.gethugothemes.com/interface/site/author/soophie-moore/</link>
+      <link>https://www.uniformatics.com/author/soophie-moore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://demo.gethugothemes.com/interface/site/author/soophie-moore/</guid>
+      <guid>https://www.uniformatics.com/author/soophie-moore/</guid>
       <description>Hic dolor cumque quod quas pariatur modi rerum qui consequatur, iusto inventore dolorem ab ducimus, porro enim fugit incidunt expedita</description>
     </item>
     
