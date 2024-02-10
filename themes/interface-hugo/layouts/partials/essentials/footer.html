@@ -5,7 +5,6 @@
         <a href="{{ site.BaseURL | relLangURL }}">
           {{ partial "logo" (dict "Src" site.Params.logo_dark) }}
         </a>
-
         <ul class="list-unstyled list-inline footer-links mb-0 mt-5 pt-4">
           {{ range site.Menus.footer }}
             <li class="list-inline-item mb-2 my-sm-0">
@@ -23,11 +22,14 @@
             <form
               class="mt-5 pt-2"
               action="{{ .mailchimp_form_action }}"
-              name="{{ .mailchimp_form_name }}">
+              d="mc-embedded-subscribe-form"
+              name="mc-embedded-subscribe-form"
+              target="_self">
               <div class="input-group">
                 <input
                   type="text"
                   class="form-control rounded-4 shadow-none text-base border-0"
+                  name="{{ .mailchimp_form_name }}"
                   placeholder="{{ i18n `enter_your_email` }}" />
                 <span class="ms-2">
                   <button class="btn btn-primary h-100">

@@ -23,8 +23,9 @@ mainSections = ["blog"]
 image_gallery = false
 
 # contact form action
-contact_form_name = ""    # contact form works with [https://airform.io/] or [https://formspree.io]
-contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
+# contact form works with [https://airform.io/] or [https://formspree.io]
+contact_form_name = "unformatics-contact"
+contact_form_action = "https://airform.io/info@uniformatics.com"
 
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
@@ -52,8 +53,8 @@ link = "contact/"
 enable = true
 content = "Data way to your end-user browser, while remaining completely invisible to our Forest Admin servers."
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+mailchimp_form_action = "https://uniformatics.us11.list-manage.com/subscribe/post?u=1c2c30ddf47078995fcaed4b1&amp;id=d53d2ad511&amp;f_id=003aa7e0f0"
+mailchimp_form_name = "b_1c2c30ddf47078995fcaed4b1_d53d2ad511"
 
 # Call to Action
 [cta]

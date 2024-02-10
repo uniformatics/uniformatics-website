@@ -15,7 +15,7 @@
                   {{ i18n `first_name` }}
                 </label>
                 <input class="form-control bg-white text-dark shadow-none" type="text" id="fname" placeholder="Andrew"
-                  required="" />
+                  required="" name="firstname" />
               </div>
             </div>
             <div class="col-lg-6">
@@ -24,7 +24,7 @@
                   {{ i18n `last_name` }}
                 </label>
                 <input class="form-control bg-white text-dark shadow-none" type="text" id="fname" placeholder="Simond"
-                  required="" />
+                  required="" name="lastname" />
               </div>
             </div>
             <div class="col-lg-6">
@@ -32,7 +32,8 @@
                 <label class="small text-dark mb-1" for="Phone">
                   {{ i18n `phone` }}
                 </label>
-                <input placeholder="(307) 555-0133" class="form-control bg-white text-dark shadow-none" type="text" />
+                <input placeholder="(307) 555-0133" class="form-control bg-white text-dark shadow-none" type="text"
+                  name="phone" />
               </div>
             </div>
             <div class="col-lg-6">
@@ -40,7 +41,7 @@
                 <label class="small text-dark mb-1" for="email">
                   {{ i18n `email_address` }}
                 </label>
-                <input class="form-control bg-white text-dark shadow-none" type="email" id="email"
+                <input class="form-control bg-white text-dark shadow-none" type="email" id="email" name="email"
                   placeholder="interface@gmail.com" required="" />
               </div>
             </div>

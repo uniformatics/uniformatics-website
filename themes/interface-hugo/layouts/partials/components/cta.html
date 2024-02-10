@@ -14,7 +14,6 @@
                   <h2 class="section-title text-center text-white mb-5">
                     {{ .title | markdownify }}
                   </h2>
-
                   {{ range $i, $e := .buttons }}
                     <a
                       class="btn m-2 {{ if eq $i 0 }}
