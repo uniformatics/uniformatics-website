@@ -51,7 +51,7 @@ link = "contact/"
 # Subscription
 [subscription]
 enable = true
-content = "Data way to your end-user browser, while remaining completely invisible to our Forest Admin servers."
+content = "Subscribe to our mailing list for special offers and important anouncements."
 # mailchimp subsciption
 mailchimp_form_action = "https://uniformatics.us11.list-manage.com/subscribe/post?u=1c2c30ddf47078995fcaed4b1&amp;id=d53d2ad511&amp;f_id=003aa7e0f0"
 mailchimp_form_name = "b_1c2c30ddf47078995fcaed4b1_d53d2ad511"
