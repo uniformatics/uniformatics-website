@@ -4,8 +4,8 @@
 - id: enter_your_email
   translation: Enter your email
 
-- id: try_for_free
-  translation: Try For Free
+- id: subscribe
+  translation: Subscribe
 
 - id: send
   translation: send message

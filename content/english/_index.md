@@ -7,10 +7,10 @@ banner:
     With Universal UI Omni-Meida technology, you can write your app once, then compile and deploy
     it natively on virtually any device and platform.
   buttons:
+    - label: "Join The Hype!"
+      link: "https://igg.me/at/uui/x/36864848#/"
     - label: "Learn More"
       link: "solutions#universal-ui"
-    - label: "Request a Demo"
-      link: "contact"
   image: "images/uui-promo-001.png"
   video_over_image:
     enable: true

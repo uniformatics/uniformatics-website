@@ -4,9 +4,11 @@ cta:
   title: "Take Advantage of Our Discounted Rates"
   subtitle: "Be One Of Our First Customers"
   buttons:
-    - label: "Get A Qoute"
-      link: "pricing/"
-    - label: "Request a demo"
+    - label: "Join the Hype!"
+      link: "https://igg.me/at/uui/x/36864848#/"
+    - label: "Learn About Our Services"
+      link: "services"
+    - label: "Request A Demo"
       link: "contact/"
 
 # don't create a separete page

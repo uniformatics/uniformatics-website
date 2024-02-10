@@ -32,7 +32,10 @@ Why having us develop your apps?
 * **No Porting Cost** - Porting your app to multiple platforms comes at almost no cost, thanks to Universal UI's ... well ... universality.
 * **No Internationalization Cost** - Most Universal UI apps can be internationalized at little or no additional cost.
 
-{{< button "Get In Touch" "contact" >}}
+This service is only available to our **Indiegogo** backers who have purchased the **Universal 
+Enterprise Hero** perk.
+
+{{< button "Visit Our Campaign Page" "https://igg.me/at/uui/x/36864848#/" >}}
 
 <hr/>
 
@@ -66,4 +69,7 @@ with the Enterprise Edition include:
 * Priority support
 * Priority processing of your core feature requests 
 
-{{< button "Pricing Details" "pricing" >}}
+This service is included in **Universal 
+Enterprise Pioneer** perk to out backers on **Indiegogo**.
+
+{{< button "Purchase on Indiegogo" "https://igg.me/at/uui/x/36864848#/" >}}
