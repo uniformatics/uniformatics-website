@@ -8,7 +8,7 @@ banner:
     it natively on virtually any device and platform.
   buttons:
     - label: "Join The Hype!"
-      link: "https://igg.me/at/uui/x/36864848#/"
+      link: "https://igg.me/at/uui2/x/36864848#/"
     - label: "Learn More"
       link: "solutions#universal-ui"
   image: "images/uui-promo-001.png"

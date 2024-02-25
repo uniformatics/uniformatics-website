@@ -5,7 +5,7 @@ cta:
   subtitle: "Be One Of Our First Customers"
   buttons:
     - label: "Join the Hype!"
-      link: "https://igg.me/at/uui/x/36864848#/"
+      link: "https://igg.me/at/uui2/x/36864848#/"
     - label: "Learn About Our Services"
       link: "services"
     - label: "Request A Demo"
